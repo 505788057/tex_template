@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.2.23)  23 FEB 2020 11:30
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2020.2.23)  25 FEB 2020 10:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1339,15 +1339,9 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 364.
  (./thesis.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 364.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 364.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 4067B4016971DD3094E7910B582EEDB1.
 
-
-Package rerunfilecheck Warning: File `thesis.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `thesis.out':
-(rerunfilecheck)             Before: 6FB0649A3ABC43C962600FC8B7A1522A
-(rerunfilecheck)             After:  4067B4016971DD3094E7910B582EEDB1.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
